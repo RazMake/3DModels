@@ -1,0 +1,4 @@
+"Screw_Diameter","mm","02.2 mm","The diameter of a hole through which the screw will fit tightly (if no tolerance is used)"
+"Screw_Length","mm","11.3 mm","The length of the screw"
+"Screw_ChamferSize","mm","1 mm","The depth of the chamfer is 1 mm, diameter is 4.2mm"
+"NutInnerCircle_Radius","mm","2.495 mm","The diameter of the circle inscribed in the hexagon that is the nut outline"

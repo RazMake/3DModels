@@ -1,0 +1,3 @@
+"PogoPin_Length","mm","16.05 mm","The total length of a pogo pin"
+"PogoPin_Diameter","mm","1 mm","The diameter of the pogo pin (at its thickest)"
+"PogoPin_RetractableLength","mm","3 mm","The length of the pin that can be pushed in"
